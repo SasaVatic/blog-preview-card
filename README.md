@@ -21,10 +21,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/html-css-Sb7oHXzJEp](https://www.frontendmentor.io/solutions/html-css-Sb7oHXzJEp)
+- Live Site URL: [https://sasavatic.github.io/blog-preview-card/](https://your-live-site-url.com)
 
 ## Author
 
-- Website - [Saša Vatić](https://www.your-site.com)
+- Website - [Saša Vatić](https://sasavatic.netlify.app/)
 - Frontend Mentor - [@SasaVatic](https://www.frontendmentor.io/profile/SasaVatic)
