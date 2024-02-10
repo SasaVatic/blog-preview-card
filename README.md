@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/html-css-Sb7oHXzJEp](https://www.frontendmentor.io/solutions/html-css-Sb7oHXzJEp)
-- Live Site URL: [https://sasavatic.github.io/blog-preview-card/](https://your-live-site-url.com)
+- Live Site URL: [https://sasavatic.github.io/blog-preview-card/](https://sasavatic.github.io/blog-preview-card/)
 
 ## Author
 
